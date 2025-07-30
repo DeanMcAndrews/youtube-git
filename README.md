@@ -8,3 +8,4 @@
 6- git log - Muestra todo el historial de los commits efectuados.
 7- git commit --amend - corrige el mensaje proporcionado en el último commit.
 8- git checkout -b "nombre-rama-nueva" - genera una nueva rama
+9- git checkout main - cambia a la rama 'main'
