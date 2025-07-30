@@ -10,4 +10,4 @@
 8. git checkout -b "nombre-rama-nueva" - genera una nueva rama
 9. git checkout main - cambia a la rama 'main'
 10. git branch -d "nombre-rama" - elimina la rama solicitada.
-11. git push - sube todos los cambios 
+11. git push - sube todos los cambios del commit y los sube al repositorio remoto.
